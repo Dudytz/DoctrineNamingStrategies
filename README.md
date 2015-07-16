@@ -1,0 +1,4 @@
+DoctrineNamingStrategies
+========================
+
+Doctrine naming strategies
